@@ -1,3 +1,10 @@
+/* header */
+#header{
+    background-image: url("images/header-img.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 /* navber parent */
 #nav-parent{
     display: flex;
@@ -12,3 +19,11 @@
     display: flex;
     gap: 20px;
 }
+
+/* header-data */
+#header-data{
+    text-align: center;
+    margin-top: 200px;
+    padding: 100px;
+}
+
