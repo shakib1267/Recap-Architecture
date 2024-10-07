@@ -1,0 +1,14 @@
+/* navber parent */
+#nav-parent{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: sans-serif;
+    font-weight: 900;
+}
+
+/* navber child-2 */
+.nav-child-2{
+    display: flex;
+    gap: 20px;
+}
